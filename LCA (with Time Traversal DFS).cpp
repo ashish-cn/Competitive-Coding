@@ -66,3 +66,5 @@ int dist(int u, int v)
 
 //Problem 1 (Dynamic Diameter): https://codeforces.com/problemset/problem/379/F
 //Solution 1: https://codeforces.com/contest/379/submission/45960185
+
+//Problem 2 (Binary Lifting Indices on array): https://codeforces.com/gym/289306/problem/F
